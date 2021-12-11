@@ -10,7 +10,7 @@ This is the main repository for all of the projects in the course.
 |:--|:--|:-- |
 | 01 | [Form Validator](https://github.com/lana-20/FormValidator) | [Live Demo](https://lana-20.github.io/FormValidator/) |
 | 02 | [Movie Seat Booking](https://github.com/lana-20/MovieSeatBooking) | [Live Demo](https://lana-20.github.io/MovieSeatBooking/) |
-| 03 |  |  |
+| 03 | [Custom Video Player](https://github.com/lana-20/CustomVideoPlayer) | [Live Demo](https://lana-20.github.io/CustomVideoPlayer/) |
 | 04 |  |  |
 | 05 |  |  |
 | 06 |  |  |
